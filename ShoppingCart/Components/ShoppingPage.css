@@ -1,0 +1,35 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.MainClass
+{
+    border: 2px solid slateblue;
+    padding: 9px;
+    /* display: flex;
+    flex-direction: column; */
+}
+.MainClass button
+{
+    width: 30px;
+    height: 50px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 9px;
+}
+.MainClass h2
+{
+    margin-bottom: 5px;
+
+}
+.BtnOne:hover
+{
+   background-color: greenyellow;
+   opacity: 0.5;
+}
+.MainClass input{
+    width: 45px;
+    margin-left: 5px;
+}

@@ -1,0 +1,42 @@
+.Backdrop
+{
+    /* position: fixed; */
+    /* width: 100%;
+    height: 100%; */
+    background-color: rgba(0,0,0 , 0.75);
+}
+.Cart_Modal
+{
+    /* width: 600px;
+    height: 350px; */
+    width: 50%;
+    height: 45%;
+     background-color: white;
+    position: fixed;    
+    left: 490px;
+    margin-top: 200px;
+    overflow-y: scroll; 
+    /* display: flex;
+    flex-wrap: wrap; */
+    /* position: fixed;
+    left: 0;
+    top: 0; */
+    
+    /* background: rgba(0,0,0,.6); */
+    /* z-index: 13; */
+    
+}
+.Cart_Modal button
+{
+    margin: 9px;
+}
+/* @media screen and (max-width: 1200px) {
+    .Cart_Modal {
+ 
+       width: 400px;
+      height: 250px;
+      position: none;
+      margin-right: 300px;
+    
+    }
+}   */
